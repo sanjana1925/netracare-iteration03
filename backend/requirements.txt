@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+
+# Iteration 3: the clinic knowledge base (RAG)
+langchain-community
+langchain-classic
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+rank-bm25
+sentence-transformers
